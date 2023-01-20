@@ -1,0 +1,8 @@
+E:\Work\Projects\AdventOfCode\DayFour\DayFour\bin\Debug\DayFour.exe.config
+E:\Work\Projects\AdventOfCode\DayFour\DayFour\bin\Debug\DayFour.exe
+E:\Work\Projects\AdventOfCode\DayFour\DayFour\bin\Debug\DayFour.pdb
+E:\Work\Projects\AdventOfCode\DayFour\DayFour\obj\Debug\DayFour.csproj.AssemblyReference.cache
+E:\Work\Projects\AdventOfCode\DayFour\DayFour\obj\Debug\DayFour.csproj.SuggestedBindingRedirects.cache
+E:\Work\Projects\AdventOfCode\DayFour\DayFour\obj\Debug\DayFour.csproj.CoreCompileInputs.cache
+E:\Work\Projects\AdventOfCode\DayFour\DayFour\obj\Debug\DayFour.exe
+E:\Work\Projects\AdventOfCode\DayFour\DayFour\obj\Debug\DayFour.pdb

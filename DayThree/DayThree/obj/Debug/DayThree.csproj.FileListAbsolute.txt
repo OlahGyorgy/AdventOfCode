@@ -1,0 +1,8 @@
+E:\Work\Projects\AdventOfCode\DayThree\DayThree\bin\Debug\DayThree.exe.config
+E:\Work\Projects\AdventOfCode\DayThree\DayThree\bin\Debug\DayThree.exe
+E:\Work\Projects\AdventOfCode\DayThree\DayThree\bin\Debug\DayThree.pdb
+E:\Work\Projects\AdventOfCode\DayThree\DayThree\obj\Debug\DayThree.csproj.AssemblyReference.cache
+E:\Work\Projects\AdventOfCode\DayThree\DayThree\obj\Debug\DayThree.csproj.SuggestedBindingRedirects.cache
+E:\Work\Projects\AdventOfCode\DayThree\DayThree\obj\Debug\DayThree.csproj.CoreCompileInputs.cache
+E:\Work\Projects\AdventOfCode\DayThree\DayThree\obj\Debug\DayThree.exe
+E:\Work\Projects\AdventOfCode\DayThree\DayThree\obj\Debug\DayThree.pdb

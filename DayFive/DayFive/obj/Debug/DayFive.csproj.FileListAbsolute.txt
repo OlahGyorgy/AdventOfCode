@@ -1,0 +1,8 @@
+E:\Work\Projects\AdventOfCode\DayFive\DayFive\bin\Debug\DayFive.exe.config
+E:\Work\Projects\AdventOfCode\DayFive\DayFive\bin\Debug\DayFive.exe
+E:\Work\Projects\AdventOfCode\DayFive\DayFive\bin\Debug\DayFive.pdb
+E:\Work\Projects\AdventOfCode\DayFive\DayFive\obj\Debug\DayFive.csproj.AssemblyReference.cache
+E:\Work\Projects\AdventOfCode\DayFive\DayFive\obj\Debug\DayFive.csproj.SuggestedBindingRedirects.cache
+E:\Work\Projects\AdventOfCode\DayFive\DayFive\obj\Debug\DayFive.csproj.CoreCompileInputs.cache
+E:\Work\Projects\AdventOfCode\DayFive\DayFive\obj\Debug\DayFive.exe
+E:\Work\Projects\AdventOfCode\DayFive\DayFive\obj\Debug\DayFive.pdb

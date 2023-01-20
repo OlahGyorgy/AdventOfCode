@@ -1,0 +1,8 @@
+E:\Work\Projects\AdventOfCode\DayTwo\DayTwo\bin\Debug\DayTwo.exe.config
+E:\Work\Projects\AdventOfCode\DayTwo\DayTwo\bin\Debug\DayTwo.exe
+E:\Work\Projects\AdventOfCode\DayTwo\DayTwo\bin\Debug\DayTwo.pdb
+E:\Work\Projects\AdventOfCode\DayTwo\DayTwo\obj\Debug\DayTwo.csproj.AssemblyReference.cache
+E:\Work\Projects\AdventOfCode\DayTwo\DayTwo\obj\Debug\DayTwo.csproj.SuggestedBindingRedirects.cache
+E:\Work\Projects\AdventOfCode\DayTwo\DayTwo\obj\Debug\DayTwo.csproj.CoreCompileInputs.cache
+E:\Work\Projects\AdventOfCode\DayTwo\DayTwo\obj\Debug\DayTwo.exe
+E:\Work\Projects\AdventOfCode\DayTwo\DayTwo\obj\Debug\DayTwo.pdb
